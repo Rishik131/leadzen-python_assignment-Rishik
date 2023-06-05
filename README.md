@@ -27,6 +27,6 @@ Output is stored in 'Amazon_Bags.csv' file.
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;
     get_description: to extract product description
 5. We iterate over dataframe 'df' row-wise and access each product's link one by one.
-6. For each product, above mentioned 3 functions are called and stored into a list.
-7. Finally these lists are appended to our original Datafram.
+6. For each product, above mentioned 3 functions are called and the output of each of them are stored into a list.
+7. Finally these lists are appended to our original Dataframe.
 8. The Dataframe is exported as CSV file
