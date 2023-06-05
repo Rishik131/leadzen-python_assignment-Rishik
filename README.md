@@ -1,4 +1,7 @@
 # leadzen-python_assignment-Rishik
+### Instructions:
+Open the 'main.ipynb' file and run each cell in sequential order.
+
 #### Part A
 1. We first import the necessary Modules.
 2. Request is sent to the required link for https request.
