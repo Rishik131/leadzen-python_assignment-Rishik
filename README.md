@@ -17,7 +17,9 @@
 4. We create 3 functions:
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;
     get_asin(): to extract ASIN of each product
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;
     get_manufacturer: to extract manufacturer details of each product
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;
     get_description: to extract product description
 5. We iterate over dataframe 'df' row-wise and access each product's link one by one.
 6. For each product, above mentioned 3 functions are called and stored into a list.
