@@ -1,6 +1,8 @@
 # leadzen-python_assignment-Rishik
 ### Instructions:
 Open the 'main.ipynb' file and run each cell in sequential order.
+<br/>
+Output is stored in 'Amazon_Bags.csv' file.
 
 #### Part A
 1. We first import the necessary Modules.
