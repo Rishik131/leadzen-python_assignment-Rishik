@@ -15,6 +15,7 @@
 2. Hence we use Selenium for part B
 3. Selenium Accesses the website via browser driver. Hence Amazon does not send CAPTCHA page to actual browser.
 4. We create 3 functions:
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;
     get_asin(): to extract ASIN of each product
     get_manufacturer: to extract manufacturer details of each product
     get_description: to extract product description
